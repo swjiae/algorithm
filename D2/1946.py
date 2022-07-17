@@ -33,3 +33,4 @@ for t in range(1, T+1):
     print()
 
 # txt = "My name is {}, I'm {}".format("John",36)
+# a, b, c = input().split() or a = list(input().split())
