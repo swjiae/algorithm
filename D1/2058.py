@@ -9,8 +9,6 @@
 # [출력] 30
 # 각 자릿수의 합을 출력한다.
 
-#print(sum([int(x) for x in input()]))
-
 n = int(input())
 
 sum = 0
@@ -24,3 +22,4 @@ for i in range(4):
 
 print(sum)
 
+#print(sum([int(x) for x in input()]))
